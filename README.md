@@ -1,1 +1,1 @@
-tugas pemrograman web semester 2, membuat cv yang diubah menjadi website
+tugas pemrograman web semester 2, mengubah cv menjadi website
